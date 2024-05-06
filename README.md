@@ -1,4 +1,13 @@
-### Hi there 👋
+### Olá👋, me chamo Ageildo
+
+Formado em Logística e atualmente curso Análise e Desenvolvimento de Sistemas. 
+Profissional com grande capacidade de aprendizado e assimilação de novas tecnologias e resolução de 
+problemas. 
+Ótimo relacionamento, trabalho em equipe é uma das maiores qualidades e gosto de auxiliar pessoas para 
+resolução de problemas. 
+Das qualidades que posso apontar, a principal e a que considero mais importante é o desejo de sempre estar 
+descobrindo o novo, transformando velhas informações em novas soluções.
+
 
 📌 [Meu portifólio]()
 
