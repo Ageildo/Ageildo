@@ -37,5 +37,4 @@ descobrindo o novo, transformando velhas informações em novas soluções.
  
 </div>
 
-![Snake animation](https://github.com/Ageildo/Ageildo/blob/output/github-contribution-grid-snake.svg)
 
