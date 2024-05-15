@@ -2,7 +2,7 @@
 
 🚀Cursando Análise e Desenvolvimento de Sistemas. 
 
-📌 [Meu portifólio]()
+📌 [Meu portifólio]() Desenvolvendo...
 
 
 <div align="center">
